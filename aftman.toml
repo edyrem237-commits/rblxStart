@@ -1,0 +1,8 @@
+# Tool versions for this project.
+# Install Aftman, then run `aftman install` in this folder.
+# Rokit also reads the same [tools] format if you prefer that manager.
+
+[tools]
+rojo = "rojo-rbx/rojo@7.7.1"
+selene = "Kampfkarren/selene@0.31.0"
+stylua = "JohnnyMorganz/StyLua@2.5.0"

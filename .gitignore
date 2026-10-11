@@ -1,0 +1,17 @@
+# Roblox place files and Rojo build output
+*.rbxl
+*.rbxlx
+
+# Lock files (Studio place locks, tool locks, and others)
+*.lock
+*.rbxl.lock
+*.rbxlx.lock
+
+# Generated Rojo sourcemap
+sourcemap.json
+
+# OS and editor junk
+.DS_Store
+Thumbs.db
+*.swp
+*~
